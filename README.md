@@ -6,4 +6,4 @@ Word and meaning searching app
 
 Find a letter and search up desired word
 
-![](https://github.com/aprameya200/XML-Layouts-For-Android/blob/Practice_On_Your_Own/Gifs/unit_Converter.gif)
+![](https://github.com/aprameya200/lab_3_Activities-and-intents/blob/activities_and_intent/Gifs/word_app.gif)
